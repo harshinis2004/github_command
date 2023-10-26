@@ -1,0 +1,22 @@
+<html>
+<head><title>Animation</title>
+<style>
+p    {background-image:url("C:\Users\Harshini\Documents\HTML\house.jpg");}
+</style>
+</head>
+<body>
+<p>
+<b>
+Hello this is harshini</b></p>
+<h1>This gonna crazy</h1>
+</body>
+</html>
+<br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><body background="C:\Users\Harshini\Documents\HTML\house.jpg">
+<marquee direction="right" scrollamount="15">
+
+<img src="C:\Users\Harshini\Documents\HTML\cat2.gif"  width="11%">
+</marquee>
+<marquee direction= "right" scrollamount="10">
+<img src="C:\Users\Harshini\Pictures\dogrun.gif" width="22%"><br>
+</marquee>
